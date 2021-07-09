@@ -46,6 +46,7 @@
     <Compile Include="ClassArray.cs" />
     <Compile Include="ClassForLoop.cs" />
     <Compile Include="ClassString.cs" />
+    <Compile Include="classTestGit.cs" />
     <Compile Include="Operations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
